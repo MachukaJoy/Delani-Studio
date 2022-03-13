@@ -26,17 +26,12 @@ $(document).ready(function(){
     }
     event.preventDefault();
   });
+
   $("#work4").hover(function(){
     $("#text4").show();
   });
   $("#work4").mouseleave(function(){
     $("#text4").hide();
-  });
-  $("#work4").hover(function(){
-    $("#text4").show();
-  });
-  $("#work4").mouseleave(function(){
-      $("#text4").hide();
   });
 
   $("#work3").hover(function(){
