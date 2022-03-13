@@ -52,7 +52,14 @@ header>img{
   font-size: 16px;
   line-height: 1.8;
 }
+.acts{
+  margin: 130px 130px 0px;
+}
 
+.des_hide, .dev_hide, .product_hide{
+  display: none;
+  margin: 20px;
+}
 h4{
   text-align: center;
   font-weight: 700;
