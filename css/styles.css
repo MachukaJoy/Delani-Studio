@@ -91,3 +91,11 @@ article>.row>.col-md-4>img{
   height: 500px;
   
 }
+.col-md-3{
+  padding: 10px;
+}
+.portfolio>.top{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
