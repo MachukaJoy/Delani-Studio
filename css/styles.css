@@ -108,3 +108,11 @@ input{
   margin: 10px;
   background: transparent;
 }
+textarea{
+  width: 100%;
+  background: transparent;
+}
+
+::placeholder{
+  color: white;
+}
