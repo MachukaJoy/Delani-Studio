@@ -24,4 +24,15 @@ header>a>.mouse{
 header>img{
   margin-top: 290px
 }
+.about{
+  text-align: center;
+}
 
+.about>h3{
+  margin-top: 40px;
+}
+
+.about>p{
+  font-size: 15px;
+  line-height: 1.8;
+}
