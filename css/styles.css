@@ -138,6 +138,13 @@ footer>div>img{
   padding: 10px;
   font-weight: 800;
   border: 4px solid rgb(124, 100, 100);
-  
+  box-sizing: border-box;
+  position: absolute;
+  border-radius: 4px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  display: none;
+
   
 }
