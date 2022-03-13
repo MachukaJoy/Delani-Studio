@@ -103,3 +103,8 @@ article>.row>.col-md-4>img{
   display: flex;
   justify-content: center;
 }
+input{
+  width: 400px;
+  margin: 10px;
+  background: transparent;
+}
