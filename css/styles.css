@@ -36,3 +36,19 @@ header>img{
   font-size: 15px;
   line-height: 1.8;
 }
+
+.services{
+  background-image: url("../images/backgrounds/s_image.jpg");
+  text-align: center;
+  color: white;
+  height: 300px;
+  width: auto;
+}
+
+.services>h3{
+  padding-top: 80px;
+}
+.services>p{
+  font-size: 16px;
+  line-height: 1.8;
+}
