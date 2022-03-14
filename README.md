@@ -12,7 +12,7 @@
 ## Description
 
 This is a fictional studio landing page, Version 1.0<br>
-Delani Studio is a team of collaborators tha come u with amazing designs. They work with the client to bring the client's vision to life. They mainly do design works, development and product management.
+Delani Studio is a team of collaborators tha come up with amazing designs. They work with the client to bring the client's vision to life. They mainly do design works, development and product management.
 
 
 ## Setup-Installation-Requirements
