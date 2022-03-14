@@ -24,9 +24,9 @@ $(document).ready(function () {
         } else {
             alert("Please fill out the form before submit, Thank you.");
         }
-        // event.preventDefault();
+        
     });
-    
+
 
     $("#work4").hover(function () {
         $("#text4").show();
